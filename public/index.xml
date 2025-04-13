@@ -23,7 +23,13 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Проработали финальный вариант главной героини&lt;/strong&gt;
-![Проработали финальный вариант главной героини]({{ &amp;ldquo;images/1.jpg&amp;rdquo; | relURL }})&lt;/p&gt;
+&lt;a href=&#34;https://github.com/Kyannittee/my-hugo-site/blob/master/static/images/1.jpg&#34;&gt;https://github.com/Kyannittee/my-hugo-site/blob/master/static/images/1.jpg&lt;/a&gt;
+&lt;figure&gt;&lt;img src=&#34;images/1.jpg&#34;
+       alt=&#34;Описание&#34;&gt;
+   &lt;/figure&gt;
+
+&amp;lt;img src=&amp;ldquo;&amp;ldquo;images/4.png&amp;rdquo; | relURL }}&amp;rdquo; alt=&amp;ldquo;Создали левелдизайн первой локации&amp;rdquo;&amp;gt;
+&amp;lt;img src=&amp;ldquo;&amp;ldquo;2.jpg&amp;rdquo; | relURL }}&amp;rdquo; alt=&amp;ldquo;Первая картинка&amp;rdquo;&amp;gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Создали левелдизайн первой локации&lt;/strong&gt;
@@ -31,8 +37,11 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Разработали концепты второстепенных персонажей&lt;/strong&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
 &lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
-&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/3.jpg&#34; alt=&#34;Вторая картинка&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/docs/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
+&amp;lt;img src=&amp;quot;&amp;quot;/3.jpg&amp;quot; | relURL }}&amp;quot; alt=&amp;ldquo;Вторая картинка&amp;rdquo;&amp;gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 - https://kyannittee.github.io/my-hugo-site/journal/ - </description>
