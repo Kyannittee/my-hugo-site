@@ -8,25 +8,7 @@ hidden: true
 
 ### Новости
 
-1. **Проработали финальный вариант главной героини**
-   https://github.com/Kyannittee/my-hugo-site/blob/master/static/images/1.jpg
-   {{< figure src="images/1.jpg" alt="Описание" >}}
-   {{< figure src="/images/1.jpg" alt="Описание" >}}
-   {{< figure src="/1.jpg" alt="Описание" >}}
-   {{< figure src="1.jpg" alt="Описание" >}}
-   <img src=""images/4.png" | relURL }}" alt="Создали левелдизайн первой локации">
-   <img src=""/4.png" | relURL }}" alt="Создали левелдизайн первой локации">
-   <img src=""4.png" | relURL }}" alt="Создали левелдизайн первой локации">
-   <img src=""2.jpg" | relURL }}" alt="Первая картинка">
-
-
-2. **Создали левелдизайн первой локации**
-   ![Создали левелдизайн первой локации](images/4.png)
-
-3. **Разработали концепты второстепенных персонажей**
-   ![Первая картинка](2.jpg)
-   ![Первая картинка](/2.jpg)
-   ![Первая картинка](/images/2.jpg)
-   ![Первая картинка](/docs/images/2.jpg)
-   <img src=""/3.jpg" | relURL }}" alt="Вторая картинка">
-
+<img src=""images/1.jpg" | relURL }}" alt="Проработали финальный вариант главной героини">
+<img src=""images/4.png" | relURL }}" alt="Создали левелдизайн первой локации">
+<img src=""images/2.jpg" | relURL }}" alt="Первая картинка">
+<img src=""images/3.jpg" | relURL }}" alt="Вторая картинка">
