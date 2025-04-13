@@ -20,10 +20,10 @@
         <guid>https://kyannittee.github.io/my-hugo-site/journal/</guid>
         <description>Project https://kyannittee.github.io/my-hugo-site/journal/ -&lt;p&gt;Эта страница содержит новости о прогрессе работы.&lt;/p&gt;
 &lt;h3 id=&#34;новости&#34;&gt;Новости&lt;/h3&gt;
-&lt;p&gt;&amp;lt;img src=&amp;ldquo;&amp;ldquo;images/1.jpg&amp;rdquo; | relURL }}&amp;rdquo; alt=&amp;ldquo;Проработали финальный вариант главной героини&amp;rdquo;&amp;gt;
-&amp;lt;img src=&amp;ldquo;&amp;ldquo;images/4.png&amp;rdquo; | relURL }}&amp;rdquo; alt=&amp;ldquo;Создали левелдизайн первой локации&amp;rdquo;&amp;gt;
-&amp;lt;img src=&amp;ldquo;&amp;ldquo;images/2.jpg&amp;rdquo; | relURL }}&amp;rdquo; alt=&amp;ldquo;Первая картинка&amp;rdquo;&amp;gt;
-&amp;lt;img src=&amp;ldquo;&amp;ldquo;images/3.jpg&amp;rdquo; | relURL }}&amp;rdquo; alt=&amp;ldquo;Вторая картинка&amp;rdquo;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/1.jpg&#34; alt=&#34;Проработали финальный вариант главной героини&#34;&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/4.png&#34; alt=&#34;Создали левелдизайн первой локации&#34;&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/3.jpg&#34; alt=&#34;Вторая картинка&#34;&gt;&lt;/p&gt;
 - https://kyannittee.github.io/my-hugo-site/journal/ - </description>
         </item>
     
