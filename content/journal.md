@@ -11,7 +11,12 @@ hidden: true
 1. **Проработали финальный вариант главной героини**
    https://github.com/Kyannittee/my-hugo-site/blob/master/static/images/1.jpg
    {{< figure src="images/1.jpg" alt="Описание" >}}
+   {{< figure src="/images/1.jpg" alt="Описание" >}}
+   {{< figure src="/1.jpg" alt="Описание" >}}
+   {{< figure src="1.jpg" alt="Описание" >}}
    <img src=""images/4.png" | relURL }}" alt="Создали левелдизайн первой локации">
+   <img src=""/4.png" | relURL }}" alt="Создали левелдизайн первой локации">
+   <img src=""4.png" | relURL }}" alt="Создали левелдизайн первой локации">
    <img src=""2.jpg" | relURL }}" alt="Первая картинка">
 
 
