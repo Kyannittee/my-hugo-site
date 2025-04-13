@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project</title>
-    <link>http://localhost:1313/</link>
+    <link>https://kyannittee.github.io/my-hugo-site/</link>
     <description>Recent content on Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://kyannittee.github.io/my-hugo-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>Журнал</title>
-        <link>http://localhost:1313/journal/</link>
+        <link>https://kyannittee.github.io/my-hugo-site/journal/</link>
         <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/journal/</guid>
-        <description>Project http://localhost:1313/journal/ -&lt;p&gt;Эта страница содержит новости о прогрессе работы.&lt;/p&gt;
+        <guid>https://kyannittee.github.io/my-hugo-site/journal/</guid>
+        <description>Project https://kyannittee.github.io/my-hugo-site/journal/ -&lt;p&gt;Эта страница содержит новости о прогрессе работы.&lt;/p&gt;
 &lt;h3 id=&#34;новости&#34;&gt;Новости&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Проработали финальный вариант главной героини&lt;/strong&gt;
-&lt;img src=&#34;http://localhost:1313/images/1.jpg&#34; alt=&#34;Проработали финальный вариант главной героини&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/1.jpg&#34; alt=&#34;Проработали финальный вариант главной героини&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Создали левелдизайн первой локации&lt;/strong&gt;
-&lt;img src=&#34;http://localhost:1313/images/4.png&#34; alt=&#34;Создали левелдизайн первой локации&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/4.png&#34; alt=&#34;Создали левелдизайн первой локации&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Разработали концепты второстепенных персонажей&lt;/strong&gt;
-&lt;img src=&#34;http://localhost:1313/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/3.jpg&#34; alt=&#34;Вторая картинка&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/3.jpg&#34; alt=&#34;Вторая картинка&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-- http://localhost:1313/journal/ - </description>
+- https://kyannittee.github.io/my-hugo-site/journal/ - </description>
         </item>
     
     

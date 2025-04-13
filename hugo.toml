@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://kyannittee.github.io/my-hugo-site/'
 languageCode = 'en-us'
 title = 'Project'
 theme = 'hugo-theme-diary' 
