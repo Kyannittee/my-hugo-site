@@ -34,7 +34,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Разработали концепты второстепенных персонажей&lt;/strong&gt;
-&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/static/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
+&lt;img src=&#34;static/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
+&lt;img src=&#34;docs/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
+&lt;img src=&#34;https://kyannittee.github.io/my-hugo-site/docs/images/2.jpg&#34; alt=&#34;Первая картинка&#34;&gt;
 &amp;lt;img src=&amp;ldquo;&amp;ldquo;images/3.jpg&amp;rdquo; | relURL }}&amp;rdquo; alt=&amp;ldquo;Вторая картинка&amp;rdquo;&amp;gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
