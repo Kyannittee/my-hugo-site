@@ -23,7 +23,10 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Проработали финальный вариант главной героини&lt;/strong&gt;
-&amp;lt;img src=&amp;ldquo;&amp;ldquo;images/1.jpg&amp;rdquo; | relURL }}&amp;rdquo; alt=&amp;ldquo;Проработали финальный вариант главной героини&amp;rdquo;&amp;gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;images/1.jpg&#34;
+       alt=&#34;Описание&#34;&gt;
+   &lt;/figure&gt;
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Создали левелдизайн первой локации&lt;/strong&gt;
