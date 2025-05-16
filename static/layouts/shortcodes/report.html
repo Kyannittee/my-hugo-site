@@ -1,4 +1,0 @@
-{{ $filePath := .Get "file" }}
-{{ $content := readFile $filePath }}
-{{ $markdownContent := .Page.RenderString $content }}
-{{ $markdownContent | safeHTML }}
