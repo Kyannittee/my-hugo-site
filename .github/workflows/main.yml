@@ -1,0 +1,38 @@
+name: Hugo Build and Deploy
+
+on:
+  push:
+    branches: [ "master" ]  # Если используете main - замените
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive  # Критически важно для тем!
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true  # Для расширенной версии
+
+      - name: Fix Theme Commit
+        run: |
+          cd themes/hugo-theme-diary
+          git fetch --all
+          git checkout -f d1649f54b1ba029f529bb7c2c07ec87027eb3dd0 || git checkout -f main
+          cd ../..
+
+      - name: Build
+        run: hugo --minify --gc --verbose
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          keep_files: false  # Очищать старые файлы
