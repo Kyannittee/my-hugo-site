@@ -44,3 +44,7 @@ hidden: true
 
 - [Чат в Telegram](https://t.me/shiver_game) — Присоединяйтесь к нашему чату для общения и вопросов.
 
+### Отчеты
+
+{{< readfile file="/content/reports/mini-Redis-Python.md" >}}
+{{< readfile file="/content/reports/Отчет по взаимодействию с организацией-партнером.md" >}}
