@@ -46,6 +46,6 @@ hidden: true
 
 ### Отчеты
 
-- [Описание]{{< readfile file="/content/reports/mini-Redis-Python.md" >}}
+- [Описание](/content/reports/mini-Redis-Python.md)
 
-- [Отчет по взаимодействию с организацией-партнером]{{< readfile file="/content/reports/Отчет по взаимодействию с организацией-партнером.md" >}}
+- [Отчет по взаимодействию с организацией-партнером](/content/reports/Отчет по взаимодействию с организацией-партнером.md)
