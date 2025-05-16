@@ -48,4 +48,4 @@ hidden: true
 
 - [Описание](/content/reports/mini-Redis-Python.md)
 
-- [Отчет по взаимодействию с организацией-партнером](/content/reports/Отчет по взаимодействию с организацией-партнером.md)
+- [Отчет по взаимодействию с организацией-партнером](/content/reports/Cooperation.md)
