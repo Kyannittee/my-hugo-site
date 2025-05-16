@@ -20,7 +20,7 @@ jobs:
           hugo-version: '0.121.1'  # Фиксируем стабильную версию
           extended: true
 
-      - name: Debug: List Files
+      - name: Debug:List Files
         run: |
           ls -la themes/
           ls -la themes/hugo-theme-diary/
