@@ -1,40 +1,30 @@
-name: Hugo Build and Deploy
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches: [ "master" ]  # Или "main", если используете её
+    branches:
+      - main  # или master
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout + Submodules
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
         with:
-          submodules: recursive  # Важно для тем!
-          fetch-depth: 0
+          submodules: true
+          fetch-depth: 0  # <--- Добавлено
 
-      - name: Setup Hugo Extended
+      - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.121.1'  # Фиксируем стабильную версию
+          hugo-version: 'latest'
           extended: true
 
-      - name: Debug:List Files
-        run: |
-          ls -la themes/
-          ls -la themes/hugo-theme-diary/
+      - name: Build Hugo site
+        run: hugo --minify
 
-      - name: Build with Fallback
-        run: |
-          hugo --minify --gc --verbose || \
-          (echo "::warning::Build failed, trying without theme..." && \
-          hugo --minify --gc --verbose --ignoreVendor)
-
-      - name: Deploy
-        if: success() || failure()  # Деплой даже при частичном успехе
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          keep_files: false
