@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reports on Project</title>
+    <link>https://kyannittee.github.io/my-hugo-site/reports/</link>
+    <description>Recent content in Reports on Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://kyannittee.github.io/my-hugo-site/reports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://kyannittee.github.io/my-hugo-site/reports/cooperation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyannittee.github.io/my-hugo-site/reports/cooperation/</guid>
+      <description>&lt;h1 id=&#34;организация-партнёр&#34;&gt;Организация-партнёр&lt;/h1&gt;&#xA;&lt;p&gt;Московский Политехнический Университет&lt;/p&gt;&#xA;&lt;p&gt;P.S: на момент начала проектной практики, после собрания о проектной практике (24.03.25) партнёр у проекта отсутствовал, потому и взаимодействие ведётся с ВУЗом.&lt;/p&gt;&#xA;&lt;h2 id=&#34;название-мероприятия&#34;&gt;Название мероприятия&lt;/h2&gt;&#xA;&lt;p&gt;Мастер-класс от 2ГИС: всё про карьеру (время +1 час 30 мин.)&lt;/p&gt;&#xA;&lt;h3 id=&#34;полученный-опыт&#34;&gt;Полученный опыт&lt;/h3&gt;&#xA;&lt;p&gt;На мастер-классе, помимо информации об организации и приложении 2ГИС, были подняты важные такие важные темы, как:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;важность полученного опыта, особенно это касается стажировок и мероприятий, через которые можно найти работу;&lt;/li&gt;&#xA;&lt;li&gt;непосредственно о поиске работы в такое трудное время;&lt;/li&gt;&#xA;&lt;li&gt;о влиянии коллектива не только на атмосферу в команде, но и на результат каждой отдельной единицы в частности.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;связь-с-проектом&#34;&gt;Связь с проектом&lt;/h3&gt;&#xA;&lt;p&gt;Связь с нашим проектом не прямая, а косвенная, и связана она с информацией непосредственно о важности коллектива и обращении на него внимания (проектная практика может выполняться в группе, что влияет на конечный результат), а также о возможности выгорания и как его избежать.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://kyannittee.github.io/my-hugo-site/reports/mini-redis-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyannittee.github.io/my-hugo-site/reports/mini-redis-python/</guid>
+      <description>&lt;h1 id=&#34;mini-redis-упрощенная-реализация-redis-на-python-с-использованием-gevent&#34;&gt;mini-Redis: Упрощенная реализация Redis на Python с использованием Gevent&lt;/h1&gt;&#xA;&lt;p&gt;Этот проект представляет собой упрощенную реализацию хранилища данных типа ключ-значение Redis, написанную на Python с использованием библиотеки Gevent для обеспечения параллельности. Проект разработан как учебное пособие для понимания внутреннего устройства Redis и принципов создания параллельных сетевых приложений.&lt;/p&gt;&#xA;&lt;h2 id=&#34;возможности&#34;&gt;Возможности&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Основные команды Redis:&lt;/strong&gt; Реализованы базовые команды Redis, такие как &lt;code&gt;GET&lt;/code&gt;, &lt;code&gt;SET&lt;/code&gt;, &lt;code&gt;DELETE&lt;/code&gt;, &lt;code&gt;FLUSH&lt;/code&gt;, &lt;code&gt;MGET&lt;/code&gt; и &lt;code&gt;MSET&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Протокол RESP:&lt;/strong&gt; Выполняется разбор и формирование ответов с использованием протокола сериализации Redis (RESP).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Параллельность Gevent:&lt;/strong&gt; Обработка множества клиентских соединений одновременно с использованием &amp;ldquo;зеленых потоков&amp;rdquo; Gevent.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Базовая обработка ошибок:&lt;/strong&gt; Возвращаются соответствующие сообщения об ошибках для неверных команд или данных.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;требования&#34;&gt;Требования&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python 3.7+&lt;/li&gt;&#xA;&lt;li&gt;Библиотека &lt;code&gt;gevent&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Среда разработки PyCharm&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;установка&#34;&gt;Установка&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Скачайте файлы технологии и перенесите их в среду разработки.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
